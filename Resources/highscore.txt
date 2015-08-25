@@ -1,0 +1,2 @@
+objectId_<type 'str'>;user_<type 'str'>;score_<type 'int'>
+8OnkLsXLVN;sadf;23

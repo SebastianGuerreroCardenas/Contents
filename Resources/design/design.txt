@@ -1,0 +1,11 @@
+I am solving the problem of hard to use databases. Though they are more efficient there is programs like Pasre or Firebase that all of for storage of information and managing. I try to solve this problem with PyCirrus because it has an easy to use interface and the code to manage this data to create a back end is easy to use. I can say this from experience because I have used Parse and other  applications, and there updating and managing of classes takes a while to get use to. With my application and extra lines of code I made th application as easy to use as possible. I did this with the use an easy to use code that uses a 2d list to manage . This is an example  of something that we all are sed to.
+
+The interface is easy to you and when designing it I wanted east to you use buttons that would allow for User interface and experience. The buttons do what they do and I assimilated what the bigger webs tires does.
+
+User Stories:
+
+As a user I want to store dat in the interface so that I can make awesome about apps
+
+As a user I want to have an easy to use interface, so that I can manage data as soon as possible
+
+Ass a user I want to have easy to use code so that I can get started in my application as fast possible

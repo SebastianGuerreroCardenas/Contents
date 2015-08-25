@@ -1,0 +1,74 @@
+Programming
+
+WorkSession #1
+timeStart: 10:00 PM April 5th 2015
+total: 2 hrs
+Progress: Got to upload a file and download a file from dropbox.
+This includes getting the cinnection using Oauth two and my personal
+token
+
+WorkSession #2
+timeStart: 9:30 PM April 6th 2015
+total: 5 hrs
+Progress: Learned more about the technology invoving the api
+Learned and planned out more how my module will work and I am writing doen the steps as I go. Furthermore, I notive that anytime I access the cloud and store data its is slow, not to slow, but it can be noticed. I do not thing it is bad because it allows for cloud storage
+
+WorkSession #3
+timeStart: 6:00 PM April 11th 2015
+total: 2 hrs
+Progress: Worked on documentation and process this includes the documents for TP1
+
+WorkSession #4
+timeStart: 11:30 PM April 14th 2015
+total: 1hr
+Progress: Planned how files will be saved and stored
+
+WorkSession #5
+timeStart: 12:00 PM April 15th 2015
+total: 1hr
+Progress: Planned how files will be saved and stored
+
+WorkSession #6
+timeStart: 4:30 PM April 15th 2015
+total: 1hr
+Progress: finish row function
+
+WorkSession #7
+timeStart: 11:00 PM April 19th 2015
+total: 2:30 hr
+Progress: finished add col, and delete row, and extracting data and saving it
+
+WorkSession #8
+timeStart: 4:00 PM April 20th 2015
+total: 2 hrs
+Progress: more functions
+
+WorkSession #8
+timeStart: 8:00 PM April 21th 2015
+total: 6 hrs
+Progress: interface
+
+WorkSession #9
+timeStart: 4:00 PM April 22th 2015
+total: 2 hrs
+Progress: interface
+
+WorkSession #10
+timeStart: 6:00 PM April 24th 2015
+total: 4 hrs
+Progress: functions 
+
+WorkSession #11
+timeStart: 11:00 PM April 25th 2015
+total: 5 hrs
+Progress: finilizing functions
+
+WorkSession #12
+timeStart: 1:00 AM April 27th 2015
+total: 2 hrs
+Progress: finalizing features and functions
+
+WorkSession #13
+timeStart: 8:00 PM April 28th 2015
+total: 6 hrs
+Progress: Finishing touches and adding extra features including features and videos
